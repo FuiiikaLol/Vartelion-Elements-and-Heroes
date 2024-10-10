@@ -1,0 +1,72 @@
+Software Requirements Specification (SRS) for a 2D RPG Game for Mobile Devices (Single-Player Only)
+
+1. Introduction 1.1. Purpose
+The purpose of this document is to describe the main requirements for developing a 2D RPG game for mobile devices, focusing on single-player gameplay. The game should offer the ability to develop a character, complete quests, fight enemies, and explore a fantasy world.
+
+1.2. Scope
+The document covers the main requirements related to gameplay, technical specifications, and user interface for the mobile game.
+
+1.3. Definitions
+
+RPG — Role-Playing Game.
+NPC — Non-Player Character.
+XP — Experience Points.
+2. System Description 2.1. Concept
+The game is a classic single-player 2D RPG. Players create a character, develop their abilities, and explore various locations while completing quests and battling enemies.
+
+2.2. Main Features
+
+Character creation and customization.
+Leveling system and skill upgrades.
+Main story and side quests.
+Real-time or turn-based combat system.
+Item system: weapons, armor, potions, and crafting resources.
+3. Functional Requirements 3.1. Character Creation
+
+Selection from multiple classes (e.g., warrior, mage, archer).
+Customization of character appearance.
+3.2. Combat System
+
+Real-time or turn-based combat.
+Use of regular attacks and special abilities.
+3.3. Quests
+
+Story and side quests.
+Automatic quest progress updates.
+3.4. Progression System
+
+Players earn XP for completing quests and defeating enemies.
+Character stats (strength, dexterity, intelligence) and abilities can be upgraded.
+3.5. Locations and NPCs
+
+Ability to explore different locations.
+Interaction with NPCs for quests and trading.
+3.6. Item System
+
+Variety of items: weapons, armor, potions, and resources.
+Crafting system to create new items.
+4. Non-Functional Requirements 4.1. Performance
+
+The game must run on devices with Android 7.0 and iOS 12 or higher.
+4.2. Interface
+
+Control via touch screens: tap for movement, gestures for attacks.
+4.3. Security
+
+Game progress is saved locally with cloud synchronization options.
+5. User Interface 5.1. Main Menu
+
+Options: start game, load game, settings.
+5.2. HUD (Heads-Up Display)
+
+Displays character level, health, mana, and active quests.
+5.3. Inventory
+
+Easy access to items and quest journal.
+6. System Requirements 6.1. Minimum Requirements
+
+Android 7.0 or iOS 12.
+2 GB of RAM.
+500 MB of free space.
+Conclusion
+This SRS document outlines the main requirements for a 2D RPG mobile game without multiplayer. It is a single-player game focused on character development and storyline, optimized for mobile platforms.
