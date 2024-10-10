@@ -1,0 +1,45 @@
+Idea and Concept
+
+Genre: Platformer with elements of MMO RPG.
+Plot: Players explore an open world, fight various mobs, level up, battle enemies, and collect resources to improve characters and their abilities.
+Target Audience: Fans of indie games, platformers, and MMO RPGs (without online multiplayer).
+
+Gameplay
+Characters: Various classes with unique abilities (similar to Dota 2).
+Procedural Generation: When creating a world, the game generates unique levels and enemies.
+Mechanics:
+
+Upgrades that persist between games (inspired by Terraria).
+A variety of bosses and enemies, each with unique mechanics.
+Elements from Dota 2
+Skills and Items: A variety of skills, like those of heroes in Dota 2, with the ability to combine and upgrade them.
+
+Elements from Terraria
+Crafting: Ability to craft items and upgrade gear.
+World Exploration: Various biomes, each with its own unique enemies and resources.
+
+Level Design
+Level Construction: A variety of room-based and dungeon structures, as well as open-world structures with unique mini-bosses.
+Secrets and Achievements: Hidden rooms and objects for additional exploration (a few will be randomly scattered across the map).
+
+Art and Sound
+Visual Style: Pixel art inspired by Terraria.
+Music and Sound: Atmospheric soundtrack and sound effects corresponding to actions.
+
+Technology
+Game Engine: Kotlin.
+Programming Language: Kotlin.
+
+Prototyping
+Creating a Basic Prototype: Implementation of core mechanics and a level.
+Testing: Early-stage open testing for feedback.
+
+Development and Release
+Iterative Development: Constant game improvements based on feedback.
+
+Support and Updates
+Patches and Enhancements: Regular updates with new content.
+
+Sources:
+Dota 2 — Steam page
+Terraria — Official website
